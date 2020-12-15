@@ -1,9 +1,9 @@
 
 
-> Hela utbildningen samlad på en överblickbar kanban-tavla
-> - För IoT elever år 2020
+> Hela utbildningen samlad på en överblickbar kanban-tavla  
+> *- För IoT elever år 2020*
 
-## [Gå in på projektsidan](https://github.com/noor-latif/IOT2020/projects/1?fullscreen=true)
+## [>Tillgång till kanban-tavlan](https://github.com/noor-latif/IOT2020/projects/1?fullscreen=true)
 ### Steg 1.
 [<img src="https://i.imgur.com/6HM69TT.png">](https://github.com/noor-latif/IOT2020/projects/1?fullscreen=true)
 ### Steg 2.
