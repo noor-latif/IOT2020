@@ -4,7 +4,7 @@ from paho.mqtt import client as mqtt_client
 
 broker = "localhost"
 port = 1883
-topic = "/python/mqtt"
+topic = "/python/mqtt/temp"
 
 client_id = f'python-mqtt-{random.randint(0,1000)}'
 
