@@ -1,0 +1,15 @@
+Installeras under sketch -> include library -> manage libraries
+- AzureIoTHub (v.1.0.45)
+- AzureIoTUtility  (v.1.0.45)
+- AzureIoTProtocol_MQTT  (v.1.0.45)
+- ArduinoJson (v.5.13.5)
+- DHT sensor library
+- Adafruit Unified Sensor
+
+
+Lägg till additional board manager url på file -> Preferences -> Additional...
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+
+Gå in på följande Tools -> Board -> Manage Boards
+Sök på esp866 och installera version 2.4.2
